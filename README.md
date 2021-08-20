@@ -1,5 +1,5 @@
-# Clipper
-Persistent Bitcoin Address Clipper
+# ClipMe
+A Persistent Bitcoin Address Clipper
 
 # About
 
