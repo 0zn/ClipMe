@@ -34,4 +34,5 @@ For removal, you only need delete the script + the registry key located in `HKEY
     Self replication to %AppData%
     Self destruct
     Add to PATH
-    Linux & Mac Support
+    Persistence for Mac
+    Linux Support
