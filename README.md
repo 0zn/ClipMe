@@ -9,7 +9,7 @@ This is to demonstrate the evolution of malware in the current crypto age.
 The script is currently undetected by VirusTotal, HybridAnalysis, MetaDefender, anyrun, etc.
 
 # Features
-
+ 
 
     No external Python modules required
     HIDE
