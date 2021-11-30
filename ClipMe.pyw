@@ -67,7 +67,7 @@ def ToClipboard(txt):
     elif Mac:
         cmd='echo '+txt.strip()+'|pbcopy'
         return subprocess.check_call(cmd, shell=True)
-
+ 
 def CheckOS():
     global Windows , Mac , FirstRun , Linux
     if FirstRun:
