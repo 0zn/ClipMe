@@ -6,7 +6,7 @@ A Persistent Bitcoin Address Clipper
 A "Clipper" is a type of malware that targets cryptocurrency transactions.
 When users copy the address of a wallet that they intend to send Bitcoin to, the copied address is stealthily replaced by (you) the attacker's.
 This is to demonstrate the evolution of malware in the current crypto age. 
-The script is currently undetected by VirusTotal, HybridAnalysis, MetaDefender, anyrun, etc.
+The script should not, at the moment, be detected by any sort of antivirus.
 
 # Features
  
